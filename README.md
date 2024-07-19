@@ -6,7 +6,7 @@ const aboutMe = {
         college: 'Red River Polytechnic',
         program: 'Business Information Technology'
     },
-    passions: ['Web Design', 'Database Management', 'Artificial Intelligence']
+    passions: ['Web Development', 'Web Design', 'Project Management', 'Artificial Intelligence']
 };
 ```
 
