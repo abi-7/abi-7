@@ -2,11 +2,15 @@
 
 ```JavaScript
 const aboutMe = {
+    name: 'Abigail Ferreira',
+    status: 'Recent Graduate',
     education: {
         college: 'Red River Polytechnic',
         program: 'Business Information Technology'
     },
-    passions: ['Web Development', 'Web Design', 'Project Management', 'Artificial Intelligence']
+    skills: ['Web Development', 'UI/UX Design', 'Project Management', 'Artificial Intelligence'],
+    passions: ['Building user-friendly digital experiences', 'Bridging design and development', 'Creating with purpose'],
+    currentlySeeking: 'Frontend Developer or Design-Focused Role'
 };
 ```
 
