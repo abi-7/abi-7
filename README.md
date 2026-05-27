@@ -7,7 +7,7 @@ I specialize in React and TypeScript development, and I love creating apps that 
 📱 I share my dev journey on Instagram → @devanddesigns <br>
 🔗 Find all my links here: <br>
 <br>
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/abigailferreira7) <br>
+[![Beacons](https://img.shields.io/badge/beacons.ai-000000?style=for-the-badge)](https://beacons.ai/devanddesigns) <br>
 
 Always building something new — feel free to explore my projects!
 
